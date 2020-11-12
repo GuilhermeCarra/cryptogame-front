@@ -12,7 +12,7 @@ In this project, we developed a game app based in cryptocurrencies with Vue.js (
 
 ### 📂 Content
 
-This repository contains only the frontend section, being the backend section stored separately in an independent repo ([here](https://code.assemblerschool.com/christian-callau/cryptogame-backend.git)).
+This repository contains only the frontend section, being the backend section stored separately in an independent repo ([here](https://github.com/GuilhermeCarra/cryptogame-server)).
 
 It contains the files and folders detailed below:
 
